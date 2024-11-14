@@ -75,6 +75,8 @@ A integração com o HiveMQ permite:
 
 ## 🎥 Vídeo de Demonstração
 
+https://github.com/user-attachments/assets/4c32f587-c92b-4020-8550-c41f3f8d64b2
+
 ## 📌 Conclusão
 
 Este projeto de semáforo inteligente utiliza sensores e comunicação via MQTT para adaptar o fluxo de veículos e as condições de luminosidade em uma via principal (avenida) e uma via secundária (rua). A avenida é priorizada para manter o tráfego fluindo, e o modo noturno garante visibilidade adequada com o piscar amarelo quando a luminosidade é baixa. A integração com o HiveMQ permite monitoramento remoto e sincronização entre os semáforos, tornando o sistema ideal para uma gestão de tráfego mais eficiente.
