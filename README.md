@@ -81,44 +81,17 @@ Este projeto de semáforo inteligente utiliza sensores e comunicação via MQTT 
 
 ## 👥 Criadores do Projeto
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+|                                                                                             |                                                                                             |                                                                                             |                                                                                             |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| <img src="assets/Isabelle_Messias_Dantas_Pereira.jpg" alt="Isabelle" width="150">           | <img src="assets/Nataly_de_Souza_Cunha.jpg" alt="Nataly" width="150">                       | <img src="assets/Heitor_de_Faria_Candido.jpg" alt="Heitor" width="150">                     | <img src="assets/Ian_Pereira_Simão.jpg" alt="Ian" width="150">                             |
+| **Isabelle Messias Dantas Pereira**                                                        | **Nataly de Souza Cunha**                                                                   | **Heitor de Faria Candido**                                                                 | **Ian Pereira Simão**                                                                       |
 
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Isabelle_Messias_Dantas_Pereira.jpg" alt="Isabelle Messias Dantas Pereira" width="150px" height="auto">
-  <p><b>Isabelle Messias Dantas Pereira</b></p>
-</div>
+|                                                                                             |                                                                                             |                                                                                             |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| <img src="assets/Rodrigo_Hu_Tchie_Lee.jpg" alt="Rodrigo" width="150">                       | <img src="assets/Lucas_Paiva_Brasil.jpg" alt="Lucas" width="150">                           | <img src="assets/João_Victor_de_Souza_Campos.jpg" alt="João" width="150">                  |
+| **Rodrigo Hu Tchie Lee**                                                                   | **Lucas Paiva Brasil**                                                                      | **João Victor de Souza Campos**                                                             |
 
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Nataly_de_Souza_Cunha.jpg" alt="Nataly de Souza Cunha" width="150px" height="auto">
-  <p><b>Nataly de Souza Cunha</b></p>
-</div>
 
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Heitor_de_Faria_Candido.jpg" alt="Heitor de Faria Candido" width="150px" height="auto">
-  <p><b>Heitor de Faria Candido</b></p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Ian_Pereira_Simão.jpg" alt="Ian Pereira Simão" width="150px" height="auto">
-  <p><b>Ian Pereira Simão</b></p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Rodrigo_Hu_Tchie_Lee.jpg" alt="Rodrigo Hu Tchie Lee" width="150px" height="auto">
-  <p><b>Rodrigo Hu Tchie Lee</b></p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img src="assets/Lucas_Paiva_Brasil.jpg" alt="Lucas Paiva Brasil" width="150px" height="auto">
-  <p><b>Lucas Paiva Brasil</b></p>
-</div>
-
-<div style="text-align: center; width: 150px;">
-  <img src="assets/João_Victor_de_Souza_Campos.jpg" alt="João Victor de Souza Campos" width="150px" height="auto">
-  <p><b>João Victor de Souza Campos</b></p>
-</div>
-
-</div>
 
 
 
